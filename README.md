@@ -30,7 +30,7 @@ A professional AC Load Analyzer for real-time impedance identification, power me
 - **Responsive Design**: Built with Tailwind CSS for modern, mobile-friendly interface
 
 <div align="center">
-  <img width="1200" height="475" alt="PhaseSense Banner" src="Image copy.png" />
+  <img width="1200" height="475" alt="PhaseSense Banner" src="image copy.png" />
 </div>
 ## Technologies Used
 
