@@ -1,0 +1,5 @@
+{
+  "name": "PhaseSense — Real-Time AC Load Analyzer",
+  "description": "A professional AC Load Analyzer for real-time impedance identification, power metrics, and phasor analysis.",
+  "requestFramePermissions": []
+}
