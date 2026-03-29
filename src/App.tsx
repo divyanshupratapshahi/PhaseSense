@@ -935,7 +935,7 @@ export default function App() {
             {[
               { label: 'Engine', val: 'V-I Phase Correlation' },
               { label: 'Resolution', val: '200 Samples/Cycle' },
-              { label: 'Accuracy', val: '±0.001% Theoretical' }
+              { label: 'Accuracy', val: '+98.999% Theoretical' }
             ].map(stat => (
               <div key={stat.label} className="space-y-1">
                 <div className="text-[9px] text-slate-400 uppercase font-mono tracking-widest font-bold">{stat.label}</div>
